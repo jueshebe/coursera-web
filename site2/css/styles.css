@@ -1,0 +1,33 @@
+body {
+    padding-top: 60px;
+}
+
+nav {
+    background: #f5b335;
+    height: 60x;
+    position: fixed;
+    top: 0;
+    transition: top 0.2s ease-in-out;
+    width: 100%;
+}
+
+.nav-up {
+    top: -60px;
+}
+
+.navbar-nav{
+	background: #F5F5DC;
+}
+
+.Menu{
+	font-size: 2em;
+}
+.title{
+	font-size: 1.5em;
+}
+
+.Chicken, .Beef, .Sushi{
+	background: #FAEBD7;
+	margin-top: 20px;
+	height: 500px;
+}
